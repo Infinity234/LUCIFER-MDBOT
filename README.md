@@ -5,26 +5,23 @@
 
 ![banner](Zokou.jpg)
 
- Zokou est un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Zokou est là pour vous aider.
+LUCIFER-MD BOT is a multi-device bot designed to enrich your WhatsApp conversations with useful and fun features. Whether it's managing files, interacting with stickers or facilitating group management, Zokou is here to help.
 
-## Fonctionnalités Principales
+Main Features
+File Upload: LUCIFER can download audio and video files from links you send to it, so you can easily share them with your contacts.
 
-- **Téléchargement de Fichiers :** Zokou peut télécharger des fichiers audio et vidéo à partir de liens que vous lui envoyez, pour que vous puissiez les partager facilement avec vos contacts.
+Exporting Stickers: You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou. You therefore need the api key from api.lolhuman.xyz; an api key is offered to you in case you can't do it:9d05ccc5f58e1cf30937
 
-- **Exportation de Stickers :** Vous pouvez exporter des stickers de Telegram et les utiliser dans vos conversations WhatsApp en les envoyant simplement à Zokou.Vous avez donc besoins de l'api key de chez api.lolhuman.xyz ; un api  key vous est offert au cas ou vous y arrivez pas : ```9d05ccc5f58e1cf30937```
+Group Management: LUCIFER-MDBOT offers group management features, such as adding or removing members, configuring rules and other settings.
 
-- **Gestion de Groupe :** Zokou offre des fonctionnalités de gestion de groupe, comme l'ajout ou la suppression de membres, la configuration de règles et d'autres paramètres.
+Text to img: The best logos have been selected for your comfort.
 
-- **Text to img :** Les meilleurs logos on été sélectionné pour votre confort.
+Fun Features
+Jokes and Riddles: LUCIFER is equipped with a collection of jokes and riddles to liven up your conversations.
 
-## Fonctionnalités Ludiques
+Inspirational Quotes: Receive inspiring quotes to motivate you every day.
 
-- **Blagues et Devinettes :** Zokou est équipé d'une collection de blagues et de devinettes pour égayer vos conversations.
-
-- **Citations Inspirantes :** Recevez des citations inspirantes pour vous motiver au quotidien.
-
-
-## Obtenir Zokou
+Get Zokou
 
 1. Veillez cliquer sur **[Fork](https://github.com/djalega8000/Zokou-2.0/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
@@ -41,7 +38,7 @@
 
 ## Contributions
 
-Les contributions à Zokou sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull 
+Les contributions à LUCIFER sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull 
 
 Nous remercions certaines personnes pour leur contribution :
 
@@ -49,7 +46,7 @@ Nous remercions certaines personnes pour leur contribution :
                 
 ## Licence
 
-Le Bot WhatsApp Zokou est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
+Le Bot WhatsApp LUCIFER est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
 Profitez des fonctionnalités variées du Bot WhatsApp Zokou pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
